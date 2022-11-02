@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Padydhai
 - 🐵️ I'm a CS student *trying my best*
 - ✨️ Hope you have all a nice day !
-- 📱️ How to contact me: Please don't...
+- 📱️ How to contact me: Why would you do that ?
 
 <!---
 Padydhai/Padydhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
